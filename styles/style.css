@@ -39,6 +39,7 @@
   line-height: 96px;
   font-size: 102px;
   font-weight: 600;
+  z-index: 3;
 }
 
 .header__subtitle{
@@ -53,22 +54,18 @@
 }
 
 .header__link{
-  width: 388px;
   font-size: 18px;
   line-height: 25px;
   color: #2f80ed;
   font-weight: normal;
- 
 }
 
 .header__main-illustration {
   width: 765px;
   height: 608px;
   right: 0;
-  bottom: 0;
   top: 147px;
   position: absolute;
-  right: 0;
   z-index: 2;
 }
 
