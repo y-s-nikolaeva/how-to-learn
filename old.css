@@ -8,7 +8,7 @@
   margin-top: 80px;
   margin-bottom: 90px;
   gap: 80px;
-  
+
 }
 
 .profile-header{
@@ -59,7 +59,7 @@
   font-weight: 600px;
   font-weight: bold;
 }
- 
+
 .section-title{
   top: 100px;
   text-align: center;
@@ -103,8 +103,8 @@
  line-height: 1.15;
  font-size: 24px;
  font-weight: bold;
- margin: 0; 
- 
+ margin: 0;
+
 }
 
 .table__text{
@@ -184,8 +184,8 @@
    padding-top: 90px;
    font-family: Arial, Helvetica, sans-serif;
    color: white;
-   
-   
+
+
  }
 
 .section-subtitle_theme_dark{
@@ -197,7 +197,7 @@
   font-family: Arial, Helvetica, sans-serif;
   color: white;
 
- 
+
  }
 
 .table_theme_dark{
@@ -216,11 +216,11 @@
  .table_cell_theme_dark{
   display: flex;
   gap: 20px;
-  display: grid; 
+  display: grid;
   width: 200px;
   top: 80px;
   z-index: 2;
-  bottom: 90px;   
+  bottom: 90px;
 }
 
  .table_heading_theme_dark{
@@ -241,7 +241,7 @@
   gap: 20px;
   width: 200px;
 }
-  
+
  .kaufman_triangle{
   width: 877px;
   height: 877px;
@@ -251,7 +251,7 @@
   top:0;
   background-image: url(..//images/kaufman-triangle.svg);
 }
- 
+
  .footer{
    min-width: 1100px;
    max-width: 1600px;
@@ -299,7 +299,7 @@
   bottom: 0;
   left: 0;
 }
-  
+
  .footer_column-heading{
   color: white;
   line-height: 30px;
@@ -332,7 +332,7 @@
   padding-top: 30px;
   padding-left: 64px;
 }
- 
+
 .footer_column-link{
   color: white;
   line-height: 30px;
