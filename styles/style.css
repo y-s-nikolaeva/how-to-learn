@@ -40,7 +40,6 @@
     font-size: 102px;
     font-weight: 600;
     z-index: 3;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
 .header__subtitle {
@@ -52,7 +51,6 @@
     bottom: 30px;
     position: absolute;
     z-index: 3;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
 .header__link {
@@ -60,7 +58,6 @@
     line-height: 25px;
     color: #2f80ed;
     font-weight: normal;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
 .header__main-illustration {
@@ -98,7 +95,6 @@
     font-weight: normal;
     margin: 0;
     width: 175px;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
 .two-columns__main-text{
@@ -116,26 +112,21 @@
     line-height: 34px;
     font-weight: normal;
     margin: 0;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
 .two-columns__span-accent{
     line-height: 34px;
     font-size: 24px;
-    font-weight: 600px;
-    font-weight: bold;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 600;
 }
 
 .section-title{
-    margin-top: 100px;
     text-align: center;
     line-height: 1.15;
     font-size: 60px;
-    font-weight: 600 bold;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 600 ;
     width: 60%;
-    margin: auto;
+    margin: 100px auto 0;
 }
 
 .section-subtitle{
@@ -143,10 +134,8 @@
     line-height: 34px;
     font-size: 24px;
     font-weight: normal;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    margin-top: 20px;
     width: 60%;
-    margin: auto;
+    margin: 20px auto 0;
 }
 
 .table{
@@ -168,7 +157,6 @@
     line-height: 1.15;
     font-size: 24px;
     font-weight: bold;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
     margin: 0;
 }
 
@@ -178,7 +166,6 @@
     line-height: 1.2;
     font-size: 18px;
     font-weight: normal;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
     width: 250px;
 }
 .ul{
@@ -196,6 +183,7 @@ li::marker{
     margin: 0 auto;
     background-color: #f2f2f2;
     position: relative;
+    padding-top: 100px;
 }
 
 .feynman__image{
@@ -214,7 +202,6 @@ li::marker{
     font-size: 120px;
     font-weight: 600 ;
     width: 648px;
-    padding-top: 100px;
     z-index: 2;
     position: relative;
 }
